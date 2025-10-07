@@ -1,39 +1,38 @@
-# Olá! Eu sou Miquéias Henderson 👋
+# Miquéias Henderson
 
-Desenvolvedor em formação, focado em **programação competitiva** e **desenvolvimento web full-stack**.
+<img align="right" alt="Developer vector created by storyset" height="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-## 🚀 Foco atual
+### 💻 Skills
 
-- 🏆 Praticando algoritmos no **Codeforces**
-- 🌐 Estudando **Java, Python, C++, JavaScript, TypeScript, React e Node.js**
-- 🐳 Aprendendo **Docker e Kubernetes**
+- C++
+- Python
+- Java
+- JavaScript / TypeScript
+- React & Node.js
 
-## 🛠️ Tecnologias
+### 📚 Atualmente estudando
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+- Algoritmos e Estruturas de Dados
+- Docker e Kubernetes
+- Desenvolvimento Web Full-Stack
+- Programação Competitiva (Codeforces)
 
-## 📊 Estatísticas
+### 🌐 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miqu%C3%A9ias-henderson-014220305/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miqueiashenderson@gmail.com)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/nosredneH)
+
+<br clear="both">
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miqueiashenderson&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miqueiashenderson&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-
-## 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miqu%C3%A9ias-henderson-014220305/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miqueiashenderson@gmail.com)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/nosredneH)
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=miqueiashenderson&color=blueviolet&style=flat-square&label=Visitantes" alt="Visitantes" />
