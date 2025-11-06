@@ -4,7 +4,6 @@
 
 ### 💻 Skills
 
-- C++
 - Python
 - Java
 - JavaScript / TypeScript
