@@ -31,16 +31,3 @@ Estudante de Ciência da Computação na UFCG com interesse em segurança de sis
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/nosredneH)
 
 <br clear="both">
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=miqueiashenderson&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miqueiashenderson&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=miqueiashenderson&color=blueviolet&style=flat-square&label=Visitantes" alt="Visitantes" />
-</div>
