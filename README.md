@@ -1,20 +1,28 @@
-# Miquéias Henderson
+# Miqueias Henderson
 
-<img align="right" alt="Developer vector created by storyset" height="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+Estudante de Ciência da Computação na UFCG com interesse em segurança de sistemas, programação de baixo nível e computação forense. Construindo base técnica sólida antes de subir na stack.
+
+<img align="right" alt="Developer vector created by storyset" height="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ### 💻 Skills
 
 - Python
 - Java
-- JavaScript / TypeScript
-- React & Node.js
+- Shell scripting / Linux CLI
+- Algoritmos e Estruturas de Dados
 
 ### 📚 Atualmente estudando
 
-- Algoritmos e Estruturas de Dados
-- Docker e Kubernetes
-- Desenvolvimento Web Full-Stack
-- Programação Competitiva (Codeforces)
+- Estruturas de Dados e Algoritmos — Cormen (CLRS)
+- Organização e Arquitetura de Computadores — Harris & Harris
+- C — próximo passo no roadmap de sistemas
+
+### 🔭 Próximos passos
+
+- Redes de Computadores — Tanenbaum
+- Segurança de Sistemas
+- Rust
+- CTF (picoCTF / pwn.college)
 
 ### 🌐 Contato
 
