@@ -1,33 +1,42 @@
-# Miqueias Henderson
+<h1 align="center">Miquéias Henderson</h1>
 
-Estudante de Ciência da Computação na UFCG com interesse em segurança de sistemas, programação de baixo nível e computação forense. Construindo base técnica sólida antes de subir na stack.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=4ADE80&center=true&vCenter=true&width=620&duration=4000&lines=Computer+Science+student+at+UFCG;Low-level+%C2%B7+Systems+%C2%B7+Security;Building+the+foundation+first" alt="Miquéias Henderson - Systems and Security" />
+</p>
 
-<img align="right" alt="Developer vector created by storyset" height="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<p align="center">
+  Computer Science student at UFCG. Focus on computer architecture and low-level programming, with systems security and computer forensics as a connecting thread. Building the foundation first.
+</p>
 
 ### 💻 Skills
 
-- Python
-- Java
-- Shell scripting / Linux CLI
-- Algoritmos e Estruturas de Dados
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" title="Python" alt="Python" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" title="Java" alt="Java" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=bash&theme=dark" title="Shell" alt="Shell" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" title="Git" alt="Git" width="40" height="40" />
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" title="Linux" alt="Linux" width="40" height="40" />
+</p>
 
-### 📚 Atualmente estudando
+### 📚 Currently studying
 
-- Estruturas de Dados e Algoritmos — Cormen (CLRS)
-- Organização e Arquitetura de Computadores — Harris & Harris
-- C — próximo passo no roadmap de sistemas
+- **Data Structures and Algorithms** — Cormen (CLRS)
+- **Computer Organization and Architecture** — Harris & Harris
+- **C** — starting now
 
-### 🔭 Próximos passos
+<details>
+  <summary>🔭 Next steps</summary>
 
-- Redes de Computadores — Tanenbaum
-- Segurança de Sistemas
-- Rust
-- CTF (picoCTF / pwn.college)
+  - **Computer Networks** — Tanenbaum
+  - **Rust**
+  - **CTF** — picoCTF / pwn.college
 
-### 🌐 Contato
+</details>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miqu%C3%A9ias-henderson-014220305/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miqueiashenderson@gmail.com)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/nosredneH)
+### 🌐 Contact
 
-<br clear="both">
+<p align="center">
+  <a href="https://www.linkedin.com/in/miqu%C3%A9ias-henderson-014220305/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" title="LinkedIn" alt="LinkedIn" width="32" height="32" /></a>
+  <a href="mailto:miqueiashenderson@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" title="Gmail" alt="Gmail" width="32" height="32" /></a>
+  <a href="https://codeforces.com/profile/nosredneH"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" title="Codeforces" alt="Codeforces" height="28" /></a>
+</p>
